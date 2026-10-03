@@ -2,6 +2,8 @@
 
 Explore single-head attention with three tokens and four-dimensional Q, K, and V vectors. Pick a query and inspect every score, weight, value vector, contribution, and output dimension.
 
+https://raeeskasim1.github.io/token-attention-explorer/
+
 ## Calculation
 
 1. Project handcrafted token vectors through seeded, untrained 4×4 matrices to get Q, K, and V. No biases are used.
